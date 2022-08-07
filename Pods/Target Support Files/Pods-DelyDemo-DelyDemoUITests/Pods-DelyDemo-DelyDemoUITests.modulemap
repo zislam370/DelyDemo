@@ -1,0 +1,6 @@
+framework module Pods_DelyDemo_DelyDemoUITests {
+  umbrella header "Pods-DelyDemo-DelyDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
